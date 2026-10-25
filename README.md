@@ -1,8 +1,5 @@
 # Vehicle Knowledge Assistant
 
-**Note:** Start the FastAPI server locally before opening the application link. The local URL is accessible only on your computer.
-
-
 An AI-powered vehicle recall assistant combining Retrieval-Augmented Generation (RAG), semantic search, a local language model, and live recall information from the NHTSA API.
 
 ## Features
