@@ -1,5 +1,6 @@
 # 🚗 Vehicle Knowledge Assistant
 
+
 ## Project Overview
 
 The Vehicle Knowledge Assistant is an AI-powered web application designed to help users understand vehicle recalls and access relevant automotive safety information. It combines Retrieval-Augmented Generation (RAG), semantic search, a large language model, and live data from the National Highway Traffic Safety Administration (NHTSA).
@@ -14,6 +15,9 @@ The application retrieves relevant information from a local recall knowledge bas
 - Integrate live vehicle recall data from the NHTSA API.
 - Reduce unsupported claims by validating cited recall campaign numbers.
 - Demonstrate practical applications of RAG, semantic search, and AI integration.
+
+An AI-powered vehicle recall assistant combining Retrieval-Augmented Generation (RAG), semantic search, a local language model, and live recall information from the NHTSA API.
+
 
 ## ✨ Key Features
 
