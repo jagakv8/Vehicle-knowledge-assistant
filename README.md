@@ -1,5 +1,13 @@
 # Vehicle Knowledge Assistant
 
+## 🔗 Project Links
+
+- **GitHub Repository:** [Vehicle Knowledge Assistant](https://github.com/jagakv8/Vehicle-knowledge-assistant)
+- **Run Locally:** `http://127.0.0.1:8000/`
+
+**Note:** Start the FastAPI server locally before opening the application link. The local URL is accessible only on your computer.
+
+
 An AI-powered vehicle recall assistant combining Retrieval-Augmented Generation (RAG), semantic search, a local language model, and live recall information from the NHTSA API.
 
 ## Features
